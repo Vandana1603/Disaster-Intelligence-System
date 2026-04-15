@@ -13,11 +13,8 @@ The system is built on a two-portal architecture:
    - **Predictive Intel Heatmap**: Rescuers can digitally "draw" custom geofences across the map. A built-in heatmap calculator automatically maps demand based on report clusters, unassigned distress signals, and community upvotes—converting raw data into clear, dark red hotspots representing urgent need.
    - **Operational Dispatch**: Emergency operators can assume command over individual incidents, digitally assigning rescue teams to specific coordinates and instantly broadcasting status updates to the public map.
 
----
 
 ## Technical Stack
-* **Frontend**: Vanilla JavaScript + HTML/CSS (Modern dark/glassmorphism UI)
-* **Web Mapping**: Leaflet.js with CartoDB & Esri Satellite integrations
-* **Analytics**: Chart.js for data mapping
-* **Backend**: Node.js & Express (API Routing & Logic)
-* **Communications**: Axios for HTTP/REST handling
+* **Frontend**: HTML/CSS + JavaScript
+* **Web Mapping**: Leaflet.js & Satellite integrations
+* **Backend**: Node.js & Express
