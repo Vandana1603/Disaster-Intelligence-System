@@ -20,5 +20,5 @@ The system is built on a two-portal architecture:
 * **Backend**: Node.js & Express
 <img width="950" height="600" alt="Screenshot 2026-04-08 100343" src="https://github.com/user-attachments/assets/6d7aefd2-ad12-4ba6-9fe9-7cb514d137fd" />
 <img width="950" height="600" alt="Screenshot 2026-04-08 100812" src="https://github.com/user-attachments/assets/68f1db7d-249e-4aa3-a75e-6a44b293db77" />
-<img width="550" height="300" alt="Screenshot 2026-04-08 104349" src="https://github.com/user-attachments/assets/397c8e7b-ab90-48b7-9bc2-2924347cfed2" />
+<img width="450" height="300" alt="Screenshot 2026-04-08 104349" src="https://github.com/user-attachments/assets/397c8e7b-ab90-48b7-9bc2-2924347cfed2" />
 <img width="950" height="600" alt="Screenshot 2026-04-08 100732" src="https://github.com/user-attachments/assets/d38bc9df-f433-412e-8546-02a33bca73d6" />
