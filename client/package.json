@@ -1,0 +1,20 @@
+{
+  "name": "disaster-dashboard-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Disaster Intelligence Dashboard",
+  "scripts": {
+    "start": "live-server public"
+  },
+  "dependencies": {
+    "axios": "^1.14.0",
+    "chart.js": "^4.5.1",
+    "leaflet": "^1.9.4"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

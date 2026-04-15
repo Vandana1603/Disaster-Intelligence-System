@@ -1,0 +1,4 @@
+[
+  { "lat": 12.97, "lng": 77.59, "description": "Flood", "risk": 60 },
+  { "lat": 13.08, "lng": 80.27, "description": "Fire", "risk": 80 }
+]
